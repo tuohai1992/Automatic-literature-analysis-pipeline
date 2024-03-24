@@ -24,7 +24,4 @@ This process includes defining the optimal number of topics using a dendrogram a
 
 The Jupyter notebook Top_modeling_results_visualizations.ipynb is designed for the visualization of the modeling results. It includes:
 
-Word Clouds
-Area Charts
-Stacked Area Charts
-Violin Charts
+Word Clouds, Area Chart, Stacked Area Chart, Violin Charts
