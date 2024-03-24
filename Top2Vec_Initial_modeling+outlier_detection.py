@@ -229,7 +229,7 @@ def top2vec():
                 list_words=topic_words[i][:30].tolist()
                 words_string = ", ".join(list_words)
                 # Set up OpenAI API key
-                openai.api_key = "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"
+                openai.api_key = "xxxx"
 
                 # Define the prompt
                 prompt = "Classification of healthcare-related keywords:\n\n"
