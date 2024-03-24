@@ -1,0 +1,44 @@
+api_key: "510da5cc1d1fef68d365a8d72bfc35e4"
+HPC keywords:
+  [
+    "high performance computing",
+    "high-performance computing",
+    "high performance computer",
+    "supercomputer*",
+    "supercomputing",
+
+  ]
+
+Healthcare keywords:
+  [
+    "healthcare",
+    "health" ,
+    "clinic*",
+    "Medicine",
+    "disease*",
+    "Medication",
+    "pharmaceutical",
+    "Medical",
+    "patient*",
+    "diagnosis",
+    "diagnostic",
+    "drug",
+    "treatment",
+    "surgery",
+    "genomics",
+    "health care",
+    "genes",
+    "genetics",
+    "biomedical",
+    "pathology" ,
+    "public health",
+    "neuroimaging ",
+    "epidemiology",
+    "genome",
+    "therapy",
+
+  ] 
+publication_list_path: "./data/2019-abs-ri-journal-list.csv"
+save_dir: "./save"
+
+
